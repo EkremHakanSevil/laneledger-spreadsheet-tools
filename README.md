@@ -4,14 +4,23 @@
 
 LaneLedger Co. is a small digital-products business I started in October 2026. It sells ready-to-use Excel / Google Sheets tools for small online sellers and service businesses on [Etsy](https://www.etsy.com/shop/LaneLedgerCo).
 
-This repository is a **portfolio showcase** of the products and how they were built. The paid product files are not included.
+This repository is a **portfolio showcase** of the products and how they were built. The full product files are sold on Etsy; free demo versions are included here.
+
+## 🎁 Free demos
+
+| Demo | What's inside | Full version |
+|---|---|---|
+| [**Pressure Washing Quote Calculator**](demo/Pressure_Washing_Quote_Calculator_FREE_DEMO.xlsx?raw=1) | Quote calculator with customer price, travel fee, deposit, copy-ready quote message, and your real job cost & profit (5 services) | [Pressure Washing Business Toolkit on Etsy](https://www.etsy.com/listing/4602384022/pressure-washing-business-spreadsheet) |
+| [**Seller Profit Calculator**](demo/Seller_Profit_Calculator_FREE_DEMO.xlsx?raw=1) | Profit after platform fees, break-even price and price for a target margin | [Seller Profit Tracker on Etsy](https://www.etsy.com/listing/4602364714/seller-profit-tracker-spreadsheet-etsy) |
+
+Download the `.xlsx` file and open it in Microsoft Excel, or import it into Google Sheets (File → Import → Upload).
 
 ---
 
 ## Products
 
 ### 1. Pressure Washing Business Toolkit
-An 8-tab workbook for pressure washing / soft washing businesses.
+An 8-tab workbook for pressure washing / soft washing businesses. [View on Etsy](https://www.etsy.com/listing/4602384022/pressure-washing-business-spreadsheet) · [Free demo](demo/Pressure_Washing_Quote_Calculator_FREE_DEMO.xlsx?raw=1)
 
 ![Pressure Washing Business Toolkit](screenshots/pressure-washing-toolkit/01_hero.jpg)
 
@@ -26,7 +35,7 @@ An 8-tab workbook for pressure washing / soft washing businesses.
 | ![](screenshots/pressure-washing-toolkit/02_quote.jpg) | ![](screenshots/pressure-washing-toolkit/03_jobs.jpg) | ![](screenshots/pressure-washing-toolkit/04_clients.jpg) |
 
 ### 2. Seller Profit Tracker
-A 6-tab workbook that shows online sellers their real profit after platform fees.
+A 6-tab workbook that shows online sellers their real profit after platform fees. [View on Etsy](https://www.etsy.com/listing/4602364714/seller-profit-tracker-spreadsheet-etsy) · [Free demo](demo/Seller_Profit_Calculator_FREE_DEMO.xlsx?raw=1)
 
 ![Seller Profit Tracker](screenshots/seller-profit-tracker/01_hero.jpg)
 
@@ -58,7 +67,7 @@ A 6-tab workbook that shows online sellers their real profit after platform fees
 
 ## Status
 - Shop opened: October 2026
-- Live products: 2
+- Live products: 2 (plus 2 free demos)
 - Next: more niche business tools based on keyword research
 
 *This repository contains screenshots and documentation only. The workbook files are sold on Etsy.*
