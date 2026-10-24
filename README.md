@@ -8,6 +8,7 @@ LaneLedger Co. is a small digital-products business I started in October 2026. I
 
 | | Product | Etsy | Repo & free demo |
 |---|---|---|---|
+| <img src="screenshots/business-acquisition-deal-analyzer/01_hero.jpg" width="220"> | **Business Acquisition Deal Analyzer**<br>SDE normalization, valuation range, maximum supportable price, SBA-style loan & DSCR checks, offer scenarios and 10-year IRR | [Shop](https://www.etsy.com/shop/LaneLedgerCo) | [business-acquisition-deal-analyzer](https://github.com/EkremHakanSevil/business-acquisition-deal-analyzer) |
 | <img src="screenshots/pressure-washing-toolkit/01_hero.jpg" width="220"> | **Pressure Washing Business Toolkit**<br>Quote calculator with real job cost & profit, jobs pipeline, client CRM with re-wash reminders, expenses and dashboard | [View listing](https://www.etsy.com/listing/4602384022/pressure-washing-business-spreadsheet) | [pressure-washing-business-toolkit](https://github.com/EkremHakanSevil/pressure-washing-business-toolkit) |
 | <img src="screenshots/seller-profit-tracker/01_hero.jpg" width="220"> | **Seller Profit Tracker**<br>Real profit after platform fees, break-even and target-margin pricing, sales log and yearly dashboard | [View listing](https://www.etsy.com/listing/4602364714/seller-profit-tracker-spreadsheet-etsy) | [seller-profit-tracker](https://github.com/EkremHakanSevil/seller-profit-tracker) |
 
@@ -24,5 +25,5 @@ LaneLedger Co. is a small digital-products business I started in October 2026. I
 
 ## Status
 - Shop opened: October 2026
-- Live products: 2 (each with a free demo)
+- Products: 3 (each with a free demo)
 - Next: more niche business tools based on keyword research
